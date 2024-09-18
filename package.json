@@ -18,7 +18,7 @@
   "dependencies": {
     "body-parser": "1.18.3",
     "ethereumjs-tx": "1.3.7",
-    "express": "4.16.4",
+    "express": "4.20.0",
     "moment": "2.24.0",
     "querystring": "0.2.0",
     "web3": "^1.0.0-beta.34"
