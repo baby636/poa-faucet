@@ -32,7 +32,7 @@
     "gulp-concat-css": "3.1.0",
     "gulp-include": "2.3.1",
     "gulp-order": "1.2.0",
-    "gulp-postcss": "8.0.0",
+    "gulp-postcss": "9.0.1",
     "gulp-sass": "4.0.2",
     "gulp-sass-glob": "1.0.9",
     "gulp-uglify": "3.0.1",
